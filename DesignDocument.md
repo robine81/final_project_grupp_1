@@ -29,6 +29,7 @@
 - Randomized items (chests containing e.g. food or ammo)
 - Randomized scenes
 - Additional zombie types (leapers, tanks, spitters, screamers)
+- Increase security by adding additional User handling entity/microservice between API Gateway and User DB
 
 # Entities needed for MVP
 - Node (Scene)
